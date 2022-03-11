@@ -1,23 +1,36 @@
 ## **Anyone can code**
-### Can anyone code? 
+### *Can anyone really code? Don't I need to be a math genius?*
 
-#### From my acadmeic experience bright and effective minds in the working world are not alone defined by academic acheivement  
+#### From my academic and professional experience, bright and effective minds in the working world are not alone defined by academic achievement.  
 
 <img src="images/abc_blocks.jpg"/>
 
 <br>
 <br>
 
-Firstly, *what is data?*. A good way to understand something is to look at the origin, when did 'data' come into existence? 
-Data is essentially the information of things, from your name and height, to remembering a person’s birthday.  
- 
-Data is prevalent in our everyday lives, and it always has been. Since the turn of the century its place in society has been valued more as knowledge and information has grown exponentially.
+Like with many things, before we really begin doing something we start with many misconceptions of how things are. Things may turn out to be easier or harder than expected but rarely exactly how we expect things to be. 
+Coding/programming is no different. 
 
-Secondly, *what is science?*. Science is the study of things. The Science council defines science as "the pursuit and application of knowledge and understanding of the natural and social world following a systematic methodology based on evidence." At the foundation of this pursuit and application of knowledge is information, i.e., data. 
+**Our misconceptions can sometimes drive us and slow us down from doing things.**
 
-In summary, **data science** is any information that can be measured and quantified, and later researched for greater understanding. Data plays a big part in our everyday lives, it has been the unseen back bone of our society, it's what records how much you have in your bank account, stores your phone contacts, keeps your email receipts, stores your shopping list in any form (digital / paper / memory), remembers where you need to go etc. Data is very important and the science of it is ever growing. 
+Programming is not easy, but it is achievable for anyone, education today is becoming less mainstream. Meaning education is not a thing that only higher education institutions offer, education is everywhere. YouTube, LinkedIn, free courses, you name it, it’s out there. 
+
+**"Education is everywhere, there is almost no excuse not to be educated today" - Mattithyahu**
+
+With the above quote, I must clarify that when I say education, I am not simply referring to the ability to program but it is to know how to do anything. How to sew, stretch, play a game, garden and even cook. 
+
+In my experience, programming is not hard, it is a skill and is developed over time with consistent practice. Programming has further developed my problem-solving abilities and allowed for greater creativity and development in my work.
+
+**I know it can't be for everyone, but may it be for you?**
+
+If you’re already into your programming journey, *well done*, if you’re just starting, *goodluck!*, and if it simply isn’t for you, that’s fine *all the best in whatever you do*. 
 
 ## Questions | Contact me 
+Thanks for reading.
 For questions, feedback, and contribution requests contact me
 * ### [Click here to email me](mailto:contactmattithyahu@gmail.com) 
 * ### [See more work here](https://mattithyahudata.github.io/)
+
+
+
+
